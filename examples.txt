@@ -1,3 +1,7 @@
+###
+This is small preview of some messages used in training for eli 3.0.
+###
+
 Message:
 >Biden solved the economy in two seconds by promising rate cuts
 I'm thinking based
